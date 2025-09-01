@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Jexan Joel  
+## 👋 Hi, I'm Jexan Joel  
 
 💻 *Full-Stack Web Developer*  
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
