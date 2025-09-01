@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Full-stack developer experienced in *MEAN stack (Angular + Node.js + MongoDB)*  
-- 🌐 Skilled in *MERN stack (React + Node.js + MongoDB)*  
+- 🌐 Experienced in *MEAN stack*  
+- 🌐 Skilled in *MERN stack*  
 - ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*  
 - 🎮 Gamer & tech enthusiast  
 - ♟ Passionate about *Chess*  
