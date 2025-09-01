@@ -1,10 +1,12 @@
 ## 👋 Hi, I'm Jexan Joel  
 
-💻 *Full-Stack Web Developer*  
+<table width="100%">
+  <tr>
+    <td align="left">💻 <b>Full-Stack Web Developer</b></td>
+    <td align="right"><img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></td>
+  </tr>
+</table>
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
