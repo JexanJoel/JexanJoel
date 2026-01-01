@@ -14,7 +14,7 @@
 - 🌐 Experienced in *MEAN stack*  
 - 🌐 Skilled in *MERN stack*  
 - ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*
-- 
+
 ---
 
 ## 🛠 Tech Stack
