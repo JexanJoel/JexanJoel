@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Experienced in *MEAN stack*  
-- 🌐 Skilled in *MERN stack*  
+- 🌐 Experienced in *MEAN stack*    
 - ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*
+- 🌐 Skilled in *MERN stack*
 
 ---
 
