@@ -13,11 +13,8 @@
 ## 🚀 About Me
 - 🌐 Experienced in *MEAN stack*  
 - 🌐 Skilled in *MERN stack*  
-- ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*  
-- 🎮 Gamer & tech enthusiast  
-- ♟ Passionate about *Chess*  
-- 📈 Interested in the *Stock Market*
-
+- ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*
+- 
 ---
 
 ## 🛠 Tech Stack
