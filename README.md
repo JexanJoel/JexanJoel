@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JexanJoel&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JexanJoel&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/jexan-joel-139993293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
