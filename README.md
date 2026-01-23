@@ -18,7 +18,7 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="JexanJoel's Github Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" height="170px" />
 </p>
 
 ---
