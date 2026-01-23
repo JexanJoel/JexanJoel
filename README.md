@@ -10,17 +10,15 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Experienced in *MEAN stack*
-- ⚡ Strong background in *HTML, CSS, JavaScript, PHP, MySQL*
-- 🌐 Skilled in *MERN stack*
+I am a **Final Year Computer Science Engineering student** and an aspiring **Full-Stack Web Developer**. I have gained extensive experience working with the **MEAN** and **MERN** stacks, alongside a strong technical foundation in **HTML, CSS, JavaScript, PHP, and MySQL**. I am passionate about building scalable web applications and solving complex problems through clean, efficient code.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="JexanJoel's Github Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="JexanJoel's Github Stats" height="170px" />
 </p>
 
 ---
@@ -60,7 +58,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jexan-joel-139993293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/JexanJoel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/JexanJoel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>Twitter</a>
   <a href="https://www.instagram.com/mr._.lusemfi?igsh=MTJ3N28xajJ2dTUweg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
