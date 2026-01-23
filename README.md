@@ -23,9 +23,9 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JexanJoel&theme=dracula&no-frame=true&column=4" alt="JexanJoel's Trophies" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JexanJoel&theme=dracula&hide_border=true&area=true" width="100%" alt="JexanJoel's Activity Graph" />
 </p>
 
 ---
