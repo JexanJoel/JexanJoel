@@ -20,11 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true" alt="JexanJoel's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JexanJoel&layout=compact&theme=dark&hide_border=true" alt="JexanJoel's Top Languages" />
 </p>
 
 ---
@@ -63,7 +59,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jexan-joel-139993293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jexanjoel1523@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/mr._.lusemfi?igsh=MTJ3N28xajJ2dTUweg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
