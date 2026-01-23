@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Final Year Computer Science Engineering student** and an aspiring **Full-Stack Web Developer**. I have gained extensive experience working with the **MEAN** and **MERN** stacks, alongside a strong technical foundation in **HTML, CSS, JavaScript, PHP, and MySQL**. I am passionate about building scalable web applications and solving complex problems through clean, efficient code.
+I am a Final Year Computer Science Engineering student and an aspiring Full-Stack Web Developer. I have gained extensive experience working with the MEAN and MERN stacks, alongside a strong technical foundation in HTML, CSS, JavaScript, PHP, and MySQL. I am passionate about building scalable web applications and solving complex problems through clean, efficient code.
 
 ---
 
