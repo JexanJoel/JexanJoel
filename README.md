@@ -19,10 +19,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true" alt="JexanJoel's Github Stats" />
-  <img src="https://streak-stats.demolab.com?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" />
+  <img src="https://streak-stats.demolab.com?user=JexanJoel&theme=dark&hide_border=true" alt="Streak" />
 </p>
-
 ---
 
 ## 🛠 Tech Stack
