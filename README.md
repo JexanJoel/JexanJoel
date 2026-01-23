@@ -23,6 +23,13 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JexanJoel&theme=dracula&no-frame=true&column=4" alt="JexanJoel's Trophies" /></a>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
