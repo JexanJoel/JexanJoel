@@ -23,13 +23,6 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JexanJoel&theme=dracula&hide_border=true&area=true" width="100%" alt="JexanJoel's Activity Graph" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
