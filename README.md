@@ -15,8 +15,8 @@
 - 🌐 Experienced in **MEAN Stack**
 - ⚡ Strong background in **HTML, CSS, JavaScript, PHP, MySQL**
 - 🌐 Skilled in **MERN Stack**
-- 🧠 Love building real-world SaaS & side projects
-- ⚒️ Building in public & learning every day
+- ⚒️ Building real-world projects & SaaS
+- 📈 Learning in public, one commit at a time
 
 ---
 
@@ -52,27 +52,21 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JexanJoel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JexanJoel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 GitHub Stats (Optional but Recommended)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.vercel.app?user=JexanJoel&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JexanJoel&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,8 +76,8 @@
   <a href="https://www.linkedin.com/in/jexan-joel-139993293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jexanjoel1523@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/mr._.lusemfi?igsh=MTJ3N28xajJ2dTUweg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
