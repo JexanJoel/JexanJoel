@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jexan Joel</h1>
-<h3 align="center">Full-Stack Web Developer | Product Builder</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions<br/>
 ⚡ Built for developers, students & creators
+🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions<br/>
 </p>
 
 ---
