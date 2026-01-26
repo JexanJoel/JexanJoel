@@ -54,7 +54,7 @@
 
 ---
 
-## 🎯 Fiverr — Web Development Services
+## 🎯 Fiverr — Digital Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
