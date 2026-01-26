@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final Year **Computer Science Engineering** student  
-- 🌐 Full-Stack Developer (MEAN & MERN)  
+- 🌐 Full-Stack Developer 
 - 🧩 Building **web apps, tools, extensions & utilities**  
 - 🚀 Focused on **clean code, performance & usability**
 
