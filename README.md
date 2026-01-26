@@ -4,7 +4,7 @@
   <tr>
     <td align="left">💻 <b>Full-Stack Web Developer</b></td>
     <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" />
     </td>
   </tr>
 </table>
@@ -34,12 +34,42 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jexanjoel?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/jexanjoel?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
 <p align="center">
-  🚀 Actively improving problem-solving skills through Data Structures & Algorithms <br/>
-  💡 Focused on writing optimized, clean, and scalable solutions
+  🚀 Actively strengthening DSA & problem-solving skills <br/>
+  💡 Focused on clean, optimized, and scalable solutions
+</p>
+
+---
+
+## 🛍 Gumroad Products
+
+<p align="center">
+  <a href="https://jexanjoel.gumroad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gumroad-Digital%20Products-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  🧩 Building & selling developer-focused tools and utilities <br/>
+  💸 Focused on productivity, automation, and offline-first software
+</p>
+
+---
+
+## 🎯 Fiverr Services
+
+<p align="center">
+  <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Full--Stack%20Developer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⚡ Providing full-stack web development & custom solutions <br/>
+  🤝 Client-focused, scalable, and maintainable code
 </p>
 
 ---
