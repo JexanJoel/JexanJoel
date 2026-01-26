@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year **Computer Science Engineering** student  
-- 🌐 Full-Stack Developer 
-- 🧩 Building **web apps, tools, extensions & utilities**  
-- 🚀 Focused on **clean code, performance & usability**
+- 🎓 Final Year **CSE** student  
+- 🌐 **Full-Stack** Web Developer  
+- 🧩 Building apps, tools & extensions  
+- 🚀 Clean, fast & scalable code  
 
 ---
 
