@@ -3,7 +3,9 @@
 <table width="100%">
   <tr>
     <td align="left">💻 <b>Full-Stack Web Developer</b></td>
-    <td align="right"><img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
   </tr>
 </table>
 
@@ -17,8 +19,27 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" alt="JexanJoel's Streak" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Github Stats" height="170px" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170px"/>
+</p>
+
+---
+
+## 🧠 LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-JexanJoel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jexanjoel?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  🚀 Actively improving problem-solving skills through Data Structures & Algorithms <br/>
+  💡 Focused on writing optimized, clean, and scalable solutions
 </p>
 
 ---
@@ -56,12 +77,19 @@ I am a Final Year Computer Science Engineering student and an aspiring Full-Stac
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jexan-joel-139993293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jexanjoel1523@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/916369668139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jexan-joel-139993293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jexanjoel1523@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/916369668139">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ “Code for humans, build for the future.”
+⭐ **“Code for humans, build for the future.”**
