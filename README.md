@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-⚡ Built for developers, students & creators
-🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions<br/>
+⚡ Built for developers, students & creators<br/>
+🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions
 </p>
 
 ---
