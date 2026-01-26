@@ -11,8 +11,8 @@
 
 - 🎓 Final Year **Computer Science Engineering** student  
 - 🌐 Full-Stack Developer (MEAN & MERN)  
-- 🧩 I build **web apps, tools, browser extensions & utilities**  
-- 🚀 Focused on **clean code, performance & real-world usability**
+- 🧩 Building **web apps, tools, extensions & utilities**  
+- 🚀 Focused on **clean code, performance & usability**
 
 ---
 
@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-  🧰 Offline tools • Debugging utilities • Web extensions <br/>
-  ⚡ Built for developers, students & creators
+🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions<br/>
+⚡ Built for developers, students & creators
 </p>
 
 ---
@@ -63,8 +63,8 @@
 </p>
 
 <p align="center">
-  🌐 Full-Stack Web Apps • Frontend & Backend <br/>
-  🛠 Bug fixing • Performance issues • Clean refactors
+🌐 Full-Stack&nbsp;Web&nbsp;Apps • Frontend&nbsp;&amp;&nbsp;Backend<br/>
+🛠 Bug&nbsp;fixing • Performance&nbsp;issues • Clean&nbsp;refactors
 </p>
 
 ---
