@@ -29,18 +29,12 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=jexanjoel&theme=dark"/>
-  </a>
-</p>
-
-<p align="center">
-  Consistent DSA practice • Optimized solutions • Logical thinking
+  DSA practice • Algorithms • Logical thinking
 </p>
 
 ---
