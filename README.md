@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Jexan Joel</h1>
+<h1 align="center">Hi 👋, I'm Jexan Joel</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🎓 Final Year **CSE** student  
 - 🌐 **Full-Stack** Web Developer  
-- 🧩 Building apps, tools & extensions  
+- 🧩 Apps, tools & extensions  
 - 🚀 Clean, fast & scalable code  
 
 ---
@@ -29,17 +29,23 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/jexanjoel?theme=dark&ext=heatmap&v=2"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  Practicing DSA • Writing optimized solutions • Improving consistency
+  <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=jexanjoel&theme=dark"/>
+  </a>
+</p>
+
+<p align="center">
+  Consistent DSA practice • Optimized solutions • Logical thinking
 </p>
 
 ---
 
-## 🛍 Gumroad - Developer Tools
+## 🛍 Gumroad — Developer Tools
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
@@ -54,7 +60,7 @@
 
 ---
 
-## 🎯 Fiverr - Digital Services
+## 🎯 Fiverr — Web Development Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
