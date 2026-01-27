@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/jexanjoel?theme=dark&ext=heatmap&v=2"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=jexanjoel&theme=dark"/>
   </a>
 </p>
 
