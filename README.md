@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -11,15 +11,15 @@
 
 - 🎓 Final Year **CSE** student  
 - 🌐 **Full-Stack** Web Developer  
-- 🧩 Apps, tools & extensions  
-- 🚀 Clean, fast & scalable code  
+- 🧩 Apps, tools & browser extensions  
+- 🚀 Writing clean, fast & scalable code  
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/jexanjoel" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Active%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-Active%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
@@ -56,13 +56,13 @@
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gumroad-Developer%20Tools-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Gumroad-Developer%20Tools-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad"/>
   </a>
 </p>
 
 <p align="center">
 ⚡ Built for developers, students & creators<br/>
-🧰 Offline&nbsp;tools • Debugging&nbsp;utilities • Web&nbsp;extensions
+🧰 Offline tools • Debugging utilities • Web extensions
 </p>
 
 ---
@@ -71,13 +71,13 @@
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Web%20Development-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fiverr-Web%20Development-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
 
 <p align="center">
-🌐 Full-Stack&nbsp;Web&nbsp;Apps • Frontend&nbsp;&amp;&nbsp;Backend<br/>
-🛠 Bug&nbsp;fixing • Performance&nbsp;issues • Clean&nbsp;refactors
+🌐 Full-Stack Web Apps • Frontend & Backend<br/>
+🛠 Bug fixing • Performance optimization • Clean refactors
 </p>
 
 ---
@@ -85,7 +85,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,express,php,mongodb,mysql,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php,mongodb,mysql,postgres,git,github,supabase,vscode" alt="Tech Stack" width="95%"/>
+</p>
+
+<p align="center">
+  Frontend • Backend • Databases • Version Control • Dev Tools
 </p>
 
 ---
@@ -93,14 +97,14 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jexan-joel-139993293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jexan-joel-139993293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jexanjoel1523@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:jexanjoel1523@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/916369668139">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/916369668139" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
