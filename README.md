@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 </p>
 
 ---
@@ -35,6 +35,20 @@
 
 <p align="center">
   DSA practice • Algorithms • Logical thinking
+</p>
+
+---
+
+## 🧪 Kaggle (Data Science & ML)
+
+<p align="center">
+  <a href="https://www.kaggle.com/jexanjoel" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Active%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Datasets • Notebooks • ML experiments • Problem solving
 </p>
 
 ---
