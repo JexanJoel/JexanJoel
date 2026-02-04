@@ -16,7 +16,7 @@
 
 ---
 
-## 📈 GitHub Activity
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160" alt="GitHub Streak"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 LeetCode (Problem Solving)
+<h2 align="center">🧠 LeetCode (Problem Solving)</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/jexanjoel/" target="_blank">
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧪 Kaggle (Data Science & ML)
+<h2 align="center">🧪 Kaggle (Data Science & ML)</h2>
 
 <p align="center">
   <a href="https://www.kaggle.com/jexanjoel" target="_blank">
@@ -52,7 +52,7 @@
 
 ---
 
-## 🛍 Gumroad - Developer Tools
+<h2 align="center">🛍 Gumroad - Developer Tools</h2>
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 Fiverr - Digital Services
+<h2 align="center">🎯 Fiverr - Digital Services</h2>
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
@@ -82,7 +82,7 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php,mongodb,mysql,postgres,git,github,supabase,vscode" alt="Tech Stack" width="95%"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jexan-joel-139993293/" target="_blank">
