@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JexanJoel&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
