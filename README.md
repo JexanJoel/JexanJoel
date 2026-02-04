@@ -88,10 +88,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php,mongodb,mysql,postgres,git,github,supabase,vscode" alt="Tech Stack" width="95%"/>
 </p>
 
-<p align="center">
-  Frontend • Backend • Databases • Version Control • Dev Tools
-</p>
-
 ---
 
 ## 🔗 Connect With Me
