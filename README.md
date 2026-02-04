@@ -85,7 +85,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php,mongodb,mysql,postgres,git,github,supabase,vscode" alt="Tech Stack" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php,mongodb,mysql,postgres,git,github,supabase,vscode,postman" alt="Tech Stack" width="95%"/>
 </p>
 
 ---
