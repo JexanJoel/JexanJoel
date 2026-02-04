@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JexanJoel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 </p>
 
 ---
@@ -85,7 +86,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,express,php,mongodb,mysql,postgres,supabase,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,express,php,mongodb,mysql,git,github,vscode"/>
 </p>
 
 ---
