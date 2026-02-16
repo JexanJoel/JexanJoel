@@ -61,8 +61,7 @@
 </p>
 
 <p align="center">
-⚡ Built for developers, students & creators<br/>
-🧰 Offline tools • Debugging utilities • Web extensions
+  ⚡ Built for developers, students & creators • 🧰 Offline tools • Debugging utilities • Web extensions
 </p>
 
 ---
@@ -76,8 +75,7 @@
 </p>
 
 <p align="center">
-🌐 Full-Stack Web Apps • Frontend & Backend<br/>
-🛠 Bug fixing • Performance optimization • Clean refactors
+  🌐 Full-Stack Web Apps • Frontend & Backend • 🛠 Bug fixing • Performance optimization • Clean refactors
 </p>
 
 ---
