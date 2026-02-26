@@ -67,7 +67,7 @@
 
 ---
 
-## 🛍 Gumroad — Developer Tools
+## 🛍 Gumroad - Developer Tools
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
@@ -78,7 +78,7 @@
 
 ---
 
-## 🎯 Fiverr — Digital Services
+## 🎯 Fiverr - Digital Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
