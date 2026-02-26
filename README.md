@@ -20,19 +20,14 @@
 
 <table>
   <tr>
-    <td width="60px" align="center">
-      <img src="https://img.shields.io/badge/-ATPL-0e75b6?style=for-the-badge" alt="ATPL"/>
-    </td>
     <td>
-      <strong>Backend Developer</strong> &nbsp;•&nbsp; Archery Technocrats Pvt Ltd (ATPL)<br/>
-      <sub>📍 Tidel Park, Chennai, Tamil Nadu &nbsp;|&nbsp; 🗓 Current</sub><br/><br/>
-      <img src="https://img.shields.io/badge/REST APIs-0e75b6?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Databases-20BEFF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Server Architecture-1DBF73?style=flat-square&logoColor=white" />
+      <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
+      <sub>Backend Developer &nbsp;|&nbsp; 📍 Tidel Park, Chennai &nbsp;|&nbsp; 🟢 Current</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
       <br/><br/>
-      ▸ Building and maintaining scalable backend systems<br/>
-      ▸ Collaborating with cross-functional teams on full-stack projects<br/>
-      ▸ Working with REST APIs, databases, and server-side architecture
+      ▸ Designing and managing <strong>PostgreSQL</strong> databases for production systems<br/>
+      ▸ Integrating <strong>Supabase</strong> for auth, real-time data & storage<br/>
+      ▸ Testing & documenting APIs end-to-end using <strong>Postman</strong>
     </td>
   </tr>
 </table>
@@ -69,7 +64,7 @@
 
 ---
 
-## 🛍 Gumroad — Developer Tools
+## 🛍 Gumroad - Developer Tools
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
@@ -80,7 +75,7 @@
 
 ---
 
-## 🎯 Fiverr — Digital Services
+## 🎯 Fiverr - Digital Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
