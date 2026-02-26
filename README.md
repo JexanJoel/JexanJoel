@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 💼 Backend Developer at **ATPL**
-- 🎓 Final Year **CSE** student  
-- 🌐 **Full-Stack** Web Developer  
+- 🎓 Final Year **Computer Science** student  
+- 🌐 **Full-Stack** Web & App Developer  
 - 🧩 Apps, tools & browser extensions  
 - 🚀 Writing clean, fast & scalable code  
 
