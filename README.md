@@ -9,8 +9,8 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Backend Developer at **ATPL**
 - 🎓 Final Year **Computer Science** student  
+- 💼 Backend Developer at **ATPL**
 - 🌐 **Full-Stack** Web & App Developer  
 - 🧩 Apps, tools & browser extensions  
 - 🚀 Writing clean, fast & scalable code  
