@@ -9,6 +9,7 @@
 
 ## 🧑‍💻 About Me
 
+- 💼 Backend Developer at **ATPL**
 - 🎓 Final Year **CSE** student  
 - 🌐 **Full-Stack** Web Developer  
 - 🧩 Apps, tools & browser extensions  
