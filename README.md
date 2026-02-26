@@ -27,7 +27,7 @@
       <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
       <br/><br/>
       <sub>▸ Managing <strong>PostgreSQL</strong> databases</sub><br/>
-      <sub>▸ Integrating <strong>Supabase</strong> for auth, realtime & storage</sub><br/>
+      <sub>▸ Integrating <strong>Supabase</strong> for auth & storage</sub><br/>
       <sub>▸ Testing & documenting APIs using <strong>Postman</strong></sub>
     </td>
   </tr>
