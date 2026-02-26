@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jexan Joel</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JexanJoel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
@@ -10,10 +9,21 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final Year **Computer Science** student  
-- 💼 Backend Developer at **ATPL**
+- 💼 Backend Developer at **Archery Technocrats Pvt Ltd**  
 - 🌐 **Full-Stack** Web & App Developer  
 - 🧩 Apps, tools & browser extensions  
 - 🚀 Writing clean, fast & scalable code  
+
+---
+
+## 💼 Work Experience
+
+**Backend Developer** — [Archery Technocrats Pvt Ltd (ATPL)](https://www.archerytechnocrats.com/)  
+📍 Tidel Park, Chennai, Tamil Nadu  
+
+- Building and maintaining scalable backend systems  
+- Collaborating with cross-functional teams on full-stack projects  
+- Working with REST APIs, databases, and server-side architecture  
 
 ---
 
@@ -32,10 +42,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
-
-<p align="center">
-  DSA practice • Algorithms • Logical thinking
-</p>
+<p align="center">DSA practice • Algorithms • Logical thinking</p>
 
 ---
 
@@ -46,38 +53,29 @@
     <img src="https://img.shields.io/badge/Kaggle-Active%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
-
-<p align="center">
-  Datasets • Notebooks • ML experiments • Problem solving
-</p>
+<p align="center">Datasets • Notebooks • ML experiments • Problem solving</p>
 
 ---
 
-## 🛍 Gumroad - Developer Tools
+## 🛍 Gumroad — Developer Tools
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
     <img src="https://img.shields.io/badge/Gumroad-Developer%20Tools-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad"/>
   </a>
 </p>
-
-<p align="center">
-  ⚡ Built for developers, students & creators • 🧰 Offline tools • Debugging utilities • Web extensions
-</p>
+<p align="center">⚡ Built for developers, students & creators • 🧰 Offline tools • Debugging utilities • Web extensions</p>
 
 ---
 
-## 🎯 Fiverr - Digital Services
+## 🎯 Fiverr — Digital Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-Web%20Development-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
-
-<p align="center">
-  🌐 Full-Stack Web Apps • Frontend & Backend • 🛠 Bug fixing • Performance optimization • Clean refactors
-</p>
+<p align="center">🌐 Full-Stack Web Apps • Frontend & Backend • 🛠 Bug fixing • Performance optimization • Clean refactors</p>
 
 ---
 
@@ -109,5 +107,5 @@
 ---
 
 <p align="center">
-  <i>“Code for humans. Build for the future.”</i>
+  <i>"Code for humans. Build for the future."</i>
 </p>
