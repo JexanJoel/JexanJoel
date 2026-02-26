@@ -18,12 +18,24 @@
 
 ## 💼 Work Experience
 
-**Backend Developer** — [Archery Technocrats Pvt Ltd (ATPL)](https://www.archerytechnocrats.com/)  
-📍 Tidel Park, Chennai, Tamil Nadu  
-
-- Building and maintaining scalable backend systems  
-- Collaborating with cross-functional teams on full-stack projects  
-- Working with REST APIs, databases, and server-side architecture  
+<table>
+  <tr>
+    <td width="60px" align="center">
+      <img src="https://img.shields.io/badge/-ATPL-0e75b6?style=for-the-badge" alt="ATPL"/>
+    </td>
+    <td>
+      <strong>Backend Developer</strong> &nbsp;•&nbsp; Archery Technocrats Pvt Ltd (ATPL)<br/>
+      <sub>📍 Tidel Park, Chennai, Tamil Nadu &nbsp;|&nbsp; 🗓 Current</sub><br/><br/>
+      <img src="https://img.shields.io/badge/REST APIs-0e75b6?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Databases-20BEFF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Server Architecture-1DBF73?style=flat-square&logoColor=white" />
+      <br/><br/>
+      ▸ Building and maintaining scalable backend systems<br/>
+      ▸ Collaborating with cross-functional teams on full-stack projects<br/>
+      ▸ Working with REST APIs, databases, and server-side architecture
+    </td>
+  </tr>
+</table>
 
 ---
 
