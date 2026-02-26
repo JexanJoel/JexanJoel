@@ -17,14 +17,15 @@
 ---
 
 ## 💼 Work Experience
-
 <div align="center">
 <table>
   <tr>
     <td align="center">
       <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
       <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
       <br/><br/>
       <sub>▸ Managing <strong>PostgreSQL</strong> databases</sub><br/>
       <sub>▸ Integrating <strong>Supabase</strong> for auth & storage</sub><br/>
@@ -33,7 +34,6 @@
   </tr>
 </table>
 </div>
-
 ---
 
 ## 📈 GitHub Activity
