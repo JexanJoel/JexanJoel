@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year **Computer Science** student  
-- 💼 Backend Developer at **Archery Technocrats Pvt Ltd**  
+- 💼 Backend Developer at **ATPL**  
+- 🎓 Final Year **CSE** student  
 - 🌐 **Full-Stack** Web & App Developer  
 - 🧩 Apps, tools & browser extensions  
 - 🚀 Writing clean, fast & scalable code  
