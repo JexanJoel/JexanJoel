@@ -19,20 +19,21 @@
 ## 💼 Work Experience
 
 <div align="center">
-<table width="100%">
+<table>
   <tr>
-    <td align="center" style="white-space:nowrap;">
+    <td align="center">
       <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
-      <sub>Backend Developer &nbsp;|&nbsp; 📍 Tidel Park, Chennai &nbsp;|&nbsp; 🟢 Current</sub><br/><br/>
+      <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
       <br/><br/>
-      <sub>▸ Designing and managing <strong>PostgreSQL</strong> databases</sub><br/>
-      <sub>▸ Integrating <strong>Supabase</strong> for auth, real time data & storage</sub><br/>
-      <sub>▸ Testing & documenting APIs end to end using <strong>Postman</strong></sub>
+      <sub>▸ Managing <strong>PostgreSQL</strong> databases</sub><br/>
+      <sub>▸ Integrating <strong>Supabase</strong> for auth, realtime & storage</sub><br/>
+      <sub>▸ Testing & documenting APIs using <strong>Postman</strong></sub>
     </td>
   </tr>
 </table>
 </div>
+
 ---
 
 ## 📈 GitHub Activity
