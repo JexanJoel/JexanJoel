@@ -19,9 +19,9 @@
 ## 💼 Work Experience
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" style="white-space:nowrap;">
       <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
       <sub>Backend Developer &nbsp;|&nbsp; 📍 Tidel Park, Chennai &nbsp;|&nbsp; 🟢 Current</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
@@ -33,7 +33,6 @@
   </tr>
 </table>
 </div>
-
 ---
 
 ## 📈 GitHub Activity
