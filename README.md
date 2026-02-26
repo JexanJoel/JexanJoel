@@ -26,9 +26,9 @@
       <sub>Backend Developer &nbsp;|&nbsp; 📍 Tidel Park, Chennai &nbsp;|&nbsp; 🟢 Current</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
       <br/><br/>
-      <sub>▸ Designing and managing <strong>PostgreSQL</strong> databases for production systems</sub><br/>
-      <sub>▸ Integrating <strong>Supabase</strong> for auth, real-time data & storage</sub><br/>
-      <sub>▸ Testing & documenting APIs end-to-end using <strong>Postman</strong></sub>
+      <sub>▸ Designing and managing <strong>PostgreSQL</strong> databases</sub><br/>
+      <sub>▸ Integrating <strong>Supabase</strong> for auth, real time data & storage</sub><br/>
+      <sub>▸ Testing & documenting APIs end to end using <strong>Postman</strong></sub>
     </td>
   </tr>
 </table>
