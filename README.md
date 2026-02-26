@@ -18,19 +18,21 @@
 
 ## 💼 Work Experience
 
+<div align="center">
 <table>
   <tr>
-    <td>
+    <td align="center">
       <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
       <sub>Backend Developer &nbsp;|&nbsp; 📍 Tidel Park, Chennai &nbsp;|&nbsp; 🟢 Current</sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,supabase,postman" />
       <br/><br/>
-      ▸ Designing and managing <strong>PostgreSQL</strong> databases for production systems<br/>
-      ▸ Integrating <strong>Supabase</strong> for auth, real-time data & storage<br/>
-      ▸ Testing & documenting APIs end-to-end using <strong>Postman</strong>
+      <sub>▸ Designing and managing <strong>PostgreSQL</strong> databases for production systems</sub><br/>
+      <sub>▸ Integrating <strong>Supabase</strong> for auth, real-time data & storage</sub><br/>
+      <sub>▸ Testing & documenting APIs end-to-end using <strong>Postman</strong></sub>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -64,7 +66,7 @@
 
 ---
 
-## 🛍 Gumroad - Developer Tools
+## 🛍 Gumroad — Developer Tools
 
 <p align="center">
   <a href="https://jexanjoel.gumroad.com/" target="_blank">
@@ -75,7 +77,7 @@
 
 ---
 
-## 🎯 Fiverr - Digital Services
+## 🎯 Fiverr — Digital Services
 
 <p align="center">
   <a href="https://www.fiverr.com/jexan_joel/" target="_blank">
