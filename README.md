@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center">
-      <strong>🏢 Archery Technocrats Private Limited</strong><br/>
+      <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
       <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub><br/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
