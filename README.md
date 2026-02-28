@@ -17,50 +17,23 @@
 ---
 
 ## 💼 Work Experience
-
-<br/>
-
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="left" style="padding: 24px; background: #13131a; border-radius: 16px; border: 1px solid #1e1e2e;">
-
-<div align="right">
-  <img src="https://img.shields.io/badge/●%20Current-4ecdc4?style=flat-square&labelColor=0d3d3a&color=0d3d3a&logoColor=4ecdc4" alt=""/>
-  <img src="https://img.shields.io/badge/🟢_CURRENT-4ecdc4?style=flat-square&color=0a2e2b&labelColor=0a2e2b" alt="Current"/>
-</div>
-
-### 🏢 Archery Technocrats Pvt Ltd &nbsp;`ATPL`
-
-![Role](https://img.shields.io/badge/Backend_Developer-1e1e2e?style=flat-square&labelColor=1e1e2e&color=2a2a3a)
-![Location](https://img.shields.io/badge/📍_Chennai,_IN-1e1e2e?style=flat-square&color=2a2a3a)
-![Status](https://img.shields.io/badge/🟢_Active-0a2e2b?style=flat-square&color=0a3330&labelColor=0a3330&logoColor=4ecdc4)
-
----
-
-**Tech Stack**
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
-
----
-
-**Responsibilities**
-
-🗄 &nbsp;Managing and optimizing **PostgreSQL** databases for production workloads  
-⚡ &nbsp;Integrating **Supabase** for authentication, storage & real-time features  
-🔧 &nbsp;Testing and documenting APIs end-to-end using **Postman**  
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
+      <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+      <br/><br/>
+      <sub>▸ Managing <strong>PostgreSQL</strong> databases</sub><br/>
+      <sub>▸ Integrating <strong>Supabase</strong> for auth & storage</sub><br/>
+      <sub>▸ Testing & documenting APIs using <strong>Postman</strong></sub>
+    </td>
+  </tr>
 </table>
-
 </div>
-
-<br/>
-
 ---
 
 ## 📈 GitHub Activity
