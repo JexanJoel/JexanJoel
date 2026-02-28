@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<p align="center">▸ Managing <strong>PostgreSQL</strong> databases &nbsp;·&nbsp; ▸ Integrating <strong>Supabase</strong> for auth & storage &nbsp;·&nbsp; ▸ Testing & documenting APIs using <strong>Postman</strong></p>
+<p align="center">PostgreSQL databases • Supabase auth & storage • API testing & documentation</p>
 
 ---
 
