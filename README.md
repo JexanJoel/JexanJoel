@@ -19,8 +19,8 @@
 ## 💼 Work Experience
 
 <p align="center">
-  <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
-  <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub>
+  <h4 align="center">🏢 Archery Technocrats Pvt Ltd (ATPL)</h4>
+  <p align="center">Backend Dev · 📍 Chennai · 🟢 Current</p>
 </p>
 
 <p align="center">
