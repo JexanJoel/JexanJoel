@@ -18,12 +18,19 @@
 
 ## 💼 Work Experience
 
-<h4 align="center">🏢 Archery Technocrats Pvt Ltd (ATPL)</h4>
-<p align="center">Backend Dev · 📍 Chennai · 🟢 Current</p>
+<p align="center">
+  <h4 align="center">🏢 Archery Technocrats Pvt Ltd (ATPL)</h4>
+  <p align="center">Backend Dev · 📍 Chennai · 🟢 Current</p>
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 <p align="center">PostgreSQL databases • Supabase auth & storage • API testing & documentation</p>
+
 ---
 
 ## 📈 GitHub Activity
