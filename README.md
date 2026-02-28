@@ -17,10 +17,11 @@
 ---
 
 ## 💼 Work Experience
+
 <div align="center">
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="700">
       <strong>🏢 Archery Technocrats Pvt Ltd (ATPL)</strong><br/>
       <sub>Backend Dev · 📍 Chennai · 🟢 Current</sub><br/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -34,6 +35,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 ## 📈 GitHub Activity
