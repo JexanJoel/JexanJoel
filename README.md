@@ -16,15 +16,13 @@
 
 ---
 
-
 ## 🧠 Currently Building
 
-- 🧬 3D medical imaging pipeline (Python)  
-- 📊 Facial asymmetry detection from CT data  
-- 🏗 Volumetric data processing workflows  
-- 🤝 Academic research collaboration  
-- 🔬 Computer vision & medical image analysis  
-
+🧬 3D CT pipeline (Python)  
+📊 Facial asymmetry detection  
+🏗 Volumetric workflows  
+🤝 Academic research  
+🔬 CV + medical imaging  
 ---
 
 ## 💼 Work Experience
