@@ -48,9 +48,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JexanJoel&theme=dark&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JexanJoel&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
