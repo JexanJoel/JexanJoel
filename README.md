@@ -16,6 +16,17 @@
 
 ---
 
+
+## 🧠 Currently Building
+
+- 🧬 3D medical imaging pipeline (Python)  
+- 📊 Facial asymmetry detection from CT data  
+- 🏗 Volumetric data processing workflows  
+- 🤝 Academic research collaboration  
+- 🔬 Computer vision & medical image analysis  
+
+---
+
 ## 💼 Work Experience
 
 <p align="center">
@@ -30,16 +41,6 @@
 </p>
 
 <p align="center">PostgreSQL databases • Supabase auth & storage • API testing & documentation</p>
-
----
-
-## 🧠 Currently Building
-
-- 🧬 3D medical imaging pipeline (Python)  
-- 📊 Facial asymmetry detection from CT data  
-- 🏗 Volumetric data processing workflows  
-- 🤝 Academic research collaboration  
-- 🔬 Computer vision & medical image analysis  
 
 ---
 
