@@ -33,6 +33,16 @@
 
 ---
 
+## 🧠 Currently Building
+
+- 🧬 3D medical imaging pipeline (Python)  
+- 📊 Facial asymmetry detection from CT data  
+- 🏗 Volumetric data processing workflows  
+- 🤝 Academic research collaboration  
+- 🔬 Computer vision & medical image analysis  
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
