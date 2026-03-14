@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  Shipping • Improving • Maintaining useful projects
+  Open source • Shipping • Improving • Maintaining useful projects
 </p>
 
 ---
