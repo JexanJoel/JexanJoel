@@ -51,6 +51,25 @@
 
 ---
 
+## 💖 Support My Work
+
+<p align="center">
+  I build open-source tools, developer utilities, and practical software projects.
+  If you'd like to support my work, you can sponsor me on GitHub.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/JexanJoel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor%20Me-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+</p>
+
+<p align="center">
+  Your support helps me keep shipping, improving, and maintaining useful projects.
+</p>
+
+---
+
 ## 🧠 LeetCode (Problem Solving)
 
 <p align="center">
