@@ -111,8 +111,6 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,php" alt="Tech Stack Row 1"/>
 </p>
