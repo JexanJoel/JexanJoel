@@ -111,11 +111,13 @@
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,php" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,php" alt="Tech Stack Row 1"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,supabase,vscode,postman" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,supabase,vscode,vite,postman" alt="Tech Stack Row 2"/>
 </p>
 
 ---
