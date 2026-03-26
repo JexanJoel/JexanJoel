@@ -26,6 +26,8 @@
 
 ---
 
+---
+
 ## 🌟 Featured Project
 
 <p align="center">
@@ -33,15 +35,21 @@
 </p>
 
 <p align="center">
-  <sub>Best Local-First Submission at the PowerSync AI Hackathon</sub>
+  Best Local-First Submission
+</p>
+<p align="center">
+  PowerSync AI Hackathon 2026
+</p>
+<p align="center">
+  Awarded $500 Prize Money
 </p>
 
 <p align="center">
   <a href="https://github.com/JexanJoel/Devtrace-AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://dev-trace-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 
