@@ -30,28 +30,30 @@
 
 ## 🌟 Featured Project
 
-<p align="center">
-  <b>🏆 DevTrace AI</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="500">
 
-<p align="center">
-  ✨ Best Local-First Submission
-</p>
-<p align="center">
-  🚀 PowerSync AI Hackathon 2026
-</p>
-<p align="center">
-  💸 Awarded $500 Prize Money
-</p>
+<b>🏆 DevTrace AI</b>
 
-<p align="center">
-  <a href="https://github.com/JexanJoel/Devtrace-AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://dev-trace-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
+✨ Best Local-First Submission
+
+🚀 PowerSync AI Hackathon 2026
+
+💸 Awarded $500 Prize Money
+
+<br>
+
+<a href="https://github.com/JexanJoel/Devtrace-AI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://dev-trace-ai.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
