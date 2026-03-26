@@ -29,22 +29,21 @@
 ## 🌟 Featured Project
 
 <p align="center">
-  <h3 align="center">🏆 DevTrace AI</h3>
-  <p align="center">Best Local-First Submission at the PowerSync AI Hackathon</p>
+  <b>🏆 DevTrace AI</b>
+</p>
+
+<p align="center">
+  <sub>Best Local-First Submission at the PowerSync AI Hackathon</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/JexanJoel/Devtrace-AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://dev-trace-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Try%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-
-<p align="center">Local-first debugging memory • Offline-first sync • AI-powered bug analysis • Team collaboration</p>
-
-<p align="center">Built to help developers track bugs, preserve debugging knowledge, reuse fixes, and collaborate without losing context.</p>
 
 ---
 
