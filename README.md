@@ -35,13 +35,13 @@
 </p>
 
 <p align="center">
-  Best Local-First Submission
+  ✨ Best Local-First Submission
 </p>
 <p align="center">
-  PowerSync AI Hackathon 2026
+  🚀 PowerSync AI Hackathon 2026
 </p>
 <p align="center">
-  Awarded $500 Prize Money
+  💸 Awarded $500 Prize Money
 </p>
 
 <p align="center">
@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/Live%20Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-
 ---
 
 ## 💼 Work Experience
