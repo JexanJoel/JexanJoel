@@ -85,7 +85,8 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JexanJoel&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JexanJoel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JexanJoel&theme=github_dark" />
 </p>
 
 ---
