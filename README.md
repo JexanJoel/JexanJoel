@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## 🌟 Featured Project
 
 <table align="center">
@@ -54,6 +52,30 @@
   </td>
   </tr>
 </table>
+
+---
+
+## 🟢 PingPilot
+<p align="center"><i>Never let your server sleep.</i></p>
+
+<p align="center">
+  <a href="https://pingpilot-ai.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/pingpilot-Keep%20Servers%20Warm-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="PingPilot"/>
+  </a>
+</p>
+<p align="center">Auto-ping your Render · Railway · Fly.io · Supabase servers · Email alerts · Uptime analytics</p>
+
+---
+
+## 🔐 EnvVault
+<p align="center"><i>Your secrets, always encrypted.</i></p>
+
+<p align="center">
+  <a href="https://env-vault-ai.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/envvault-Secure%20Your%20Secrets-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="EnvVault"/>
+  </a>
+</p>
+<p align="center">AES-256 encrypted env manager · Team permissions · Audit logs · Dev · Staging · Production</p>
 
 ---
 
