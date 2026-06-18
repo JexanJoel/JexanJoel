@@ -54,6 +54,21 @@
 
 ---
 
+## 🔑 ApiVault
+<p align="center"><i>Manage APIs, test endpoints, and organize collections.</i></p>
+
+<p align="center">
+  <a href="https://api-vault-phi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ApiVault-API%20Management-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="ApiVault"/>
+  </a>
+</p>
+
+<p align="center">
+API collections • Request testing • Environment support • Authentication management • Developer workspace
+</p>
+
+---
+
 ## 🟢 PingPilot
 <p align="center"><i>Never let your server sleep.</i></p>
 
