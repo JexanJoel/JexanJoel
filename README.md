@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Backend Developer at **ATPL**   
+- 💼 Full Stack Developer at **ATPL**   
 - 🌐 **Full-Stack** Web & App Developer  
 - 🧩 Apps, tools & browser extensions  
 - 🚀 Writing clean, fast & scalable code  
@@ -97,7 +97,7 @@ API collections • Request testing • Environment support • Authentication m
 
 <p align="center">
   <h4 align="center">🏢 Archery Technocrats Pvt Ltd (ATPL)</h4>
-  <p align="center">Backend Dev · 📍 Chennai · 🟢 Current</p>
+  <p align="center">Full Stack Dev · 📍 Chennai · 🟢 Current</p>
 </p>
 
 <p align="center">
